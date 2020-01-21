@@ -6,7 +6,7 @@ using namespace std;
 
 int main ()
 {
-    int input = 34;
+    string input = "rajvansh";
 
     doSomething(input);
 

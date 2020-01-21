@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-void doSomething(int input)
+void doSomething(string input)
 {
     cout << "Your input is : " << input << endl;
 }
