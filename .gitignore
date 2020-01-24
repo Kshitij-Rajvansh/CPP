@@ -1,2 +1,4 @@
 # ignore an entire directory
 /.vscode/
+
+*.exe
